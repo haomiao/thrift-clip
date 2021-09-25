@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libthriftnb", "libthriftnb.vcxproj", "{D8696CCE-7D46-4659-B432-91754A41DEB0}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "doc", "doc", "{006984E0-7CC1-47E2-ACD2-A40FE4D38693}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "thrift_tutorial_server", "tutorial\thrift_tutorial_server.vcxproj", "{1772685C-8F9D-4816-BF66-A22D9CCF3B37}"
 	ProjectSection(ProjectDependencies) = postProject
 		{DD26F57E-60F2-4F37-A616-D219A9BF338F} = {DD26F57E-60F2-4F37-A616-D219A9BF338F}
